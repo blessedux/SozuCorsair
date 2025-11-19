@@ -2,11 +2,11 @@
 
 **The permissionless P2P marketplace powering Sozu Wallet (Stellar)**
 
-SozuMarket is a peer-to-peer marketplace platform that connects users in Argentina who want to trade digital pesos (AR$) or cash for USDC on the Stellar blockchain. Built with a focus on privacy and self-custody—no KYC required. SozuMarket is a non-custodial, non-intermediary platform that facilitates direct peer-to-peer connections only, designed to scale use fo the SozuWallet.
+SozuMarket is a peer-to-peer marketplace platform that connects users in Argentina who want to trade digital pesos (AR$) or cash for USDC on the Stellar blockchain. Built with a focus on privacy and self-custody—no KYC required. SozuMarket is a non-custodial, non-intermediary platform that facilitates direct peer-to-peer connections only, designed to scale use for the SozuWallet.
 
 ---
 
-## 🎯 Purpose in Sozu Capital Ecosystem
+## Purpose in Sozu Capital Ecosystem
 
 SozuMarket serves as a **matching platform** for Sozu Wallet users, providing a decentralized way to:
 
