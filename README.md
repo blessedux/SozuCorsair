@@ -1,22 +1,22 @@
-# SozuCorsair (SozuMarket)
+# SozuMarket
 
 **The permissionless P2P marketplace powering Sozu Wallet (Stellar)**
 
-SozuCorsair is a peer-to-peer marketplace platform that connects users in Argentina who want to trade digital pesos (AR$) or cash for USDC on the Stellar blockchain. Built with a focus on privacy and self-custody—no KYC required. SozuCorsair is a non-custodial, non-intermediary platform that facilitates direct peer-to-peer connections only, designed to scale use fo the SozuWallet.
+SozuMarket is a peer-to-peer marketplace platform that connects users in Argentina who want to trade digital pesos (AR$) or cash for USDC on the Stellar blockchain. Built with a focus on privacy and self-custody—no KYC required. SozuMarket is a non-custodial, non-intermediary platform that facilitates direct peer-to-peer connections only, designed to scale use fo the SozuWallet.
 
 ---
 
 ## 🎯 Purpose in Sozu Capital Ecosystem
 
-SozuCorsair serves as a **matching platform** for Sozu Wallet users, providing a decentralized way to:
+SozuMarket serves as a **matching platform** for Sozu Wallet users, providing a decentralized way to:
 
 - **Find Counterparties**: Connect buyers and sellers of USDC/AR$ pairs
 - **View Offers**: Browse available trades with pricing and user reputation data
-- **Maintain Self-Custody**: All blockchain transactions occur directly between users' Stellar wallets—SozuCorsair never touches funds
+- **Maintain Self-Custody**: All blockchain transactions occur directly between users' Stellar wallets—SozuMarket never touches funds
 - **Trade Without KYC**: Permissionless access for users who value privacy
 - **Direct P2P Trading**: Users execute trades directly with each other using their own wallets
 
-**Important**: SozuCorsair is a pure matching and information platform. We do not escrow, hold, custody, settle, resolve disputes, or intermediate payments. All transactions occur directly between users' wallets on the Stellar network.
+**Important**: SozuMarket is a pure matching and information platform. We do not escrow, hold, custody, settle, resolve disputes, or intermediate payments. All transactions occur directly between users' wallets on the Stellar network.
 
 This marketplace facilitates connections for users in the Sozu Capital ecosystem, enabling peer-to-peer entry and exit from the Stellar-based financial infrastructure.
 
@@ -134,11 +134,11 @@ This marketplace facilitates connections for users in the Sozu Capital ecosystem
 ## 🔐 Security & Privacy
 
 - **No KYC**: Users can trade without identity verification
-- **Self-Custody**: All funds remain in user-controlled Stellar wallets—SozuCorsair never has access
-- **Non-Custodial**: SozuCorsair does not hold, escrow, custody, settle, or intermediate any funds
+- **Self-Custody**: All funds remain in user-controlled Stellar wallets—SozuMarket never has access
+- **Non-Custodial**: SozuMarket does not hold, escrow, custody, settle, or intermediate any funds
 - **Reputation System**: Community-driven trust mechanism based on user-reported data
 - **Direct P2P**: All transactions occur directly between users' wallets on Stellar
-- **No Payment Intermediation**: SozuCorsair does not process, hold, or intermediate any payments
+- **No Payment Intermediation**: SozuMarket does not process, hold, or intermediate any payments
 
 ---
 
@@ -179,7 +179,7 @@ MIT
 
 ## ⚖️ Legal Disclaimer
 
-SozuCorsair is a peer-to-peer matching platform that connects users for direct trades. SozuCorsair does not:
+SozuMarket is a peer-to-peer matching platform that connects users for direct trades. SozuMarket does not:
 
 - Escrow or hold funds
 - Provide custody services
